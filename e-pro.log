@@ -1,121 +1,99 @@
-2022-11-03 02:04:48,611 INFO ====== WebDriver manager ======
-2022-11-03 02:04:48,664 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:04:49,130 INFO About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_linux64.zip
-2022-11-03 02:04:51,707 INFO Driver has been saved in cache [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304]
-2022-11-03 02:04:52,644 INFO ✅ Driver init.
-2022-11-03 02:05:22,707 INFO ====== WebDriver manager ======
-2022-11-03 02:05:22,739 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:05:23,069 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:05:23,949 INFO ✅ Driver init.
-2022-11-03 02:08:28,370 INFO ====== WebDriver manager ======
-2022-11-03 02:08:28,402 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:08:28,803 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:08:29,716 INFO ✅ Driver init.
-2022-11-03 02:11:54,923 INFO ====== WebDriver manager ======
-2022-11-03 02:11:54,964 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:11:55,450 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:11:56,424 INFO ✅ Driver init.
-2022-11-03 02:12:12,594 INFO ====== WebDriver manager ======
-2022-11-03 02:12:12,632 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:12:12,962 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:12:13,890 INFO ✅ Driver init.
-2022-11-03 02:14:42,847 INFO ====== WebDriver manager ======
-2022-11-03 02:14:42,882 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:14:43,225 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:14:44,123 INFO ✅ Driver init.
-2022-11-03 02:20:37,320 INFO ====== WebDriver manager ======
-2022-11-03 02:20:37,353 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:20:37,808 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:20:38,684 INFO ✅ Driver init.
-2022-11-03 02:23:31,775 INFO ====== WebDriver manager ======
-2022-11-03 02:23:31,810 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:23:32,161 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:23:33,078 INFO ✅ Driver init.
-2022-11-03 02:24:30,792 INFO ====== WebDriver manager ======
-2022-11-03 02:24:30,823 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:24:31,205 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:24:32,059 INFO ✅ Driver init.
-2022-11-03 02:25:24,395 INFO ====== WebDriver manager ======
-2022-11-03 02:25:24,430 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:25:24,890 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:25:25,767 INFO ✅ Driver init.
-2022-11-03 02:26:02,167 INFO ====== WebDriver manager ======
-2022-11-03 02:26:02,199 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:26:02,668 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:26:03,535 INFO ✅ Driver init.
-2022-11-03 02:26:56,949 INFO ====== WebDriver manager ======
-2022-11-03 02:26:56,987 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:26:57,356 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:26:58,280 INFO ✅ Driver init.
-2022-11-03 02:27:08,436 INFO ====== WebDriver manager ======
-2022-11-03 02:27:08,468 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:27:08,867 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:27:09,751 INFO ✅ Driver init.
-2022-11-03 02:27:45,317 INFO ====== WebDriver manager ======
-2022-11-03 02:27:45,352 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:27:45,709 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:27:46,586 INFO ✅ Driver init.
-2022-11-03 02:39:22,161 INFO ====== WebDriver manager ======
-2022-11-03 02:39:22,204 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:39:22,855 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:39:23,752 INFO ✅ Driver init.
-2022-11-03 02:39:45,898 INFO ====== WebDriver manager ======
-2022-11-03 02:39:45,934 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:39:46,375 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:39:47,247 INFO ✅ Driver init.
-2022-11-03 02:40:37,345 INFO ====== WebDriver manager ======
-2022-11-03 02:40:37,378 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:40:37,771 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:40:38,632 INFO ✅ Driver init.
-2022-11-03 02:42:03,846 INFO ====== WebDriver manager ======
-2022-11-03 02:42:03,878 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:42:04,265 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:42:05,171 INFO ✅ Driver init.
-2022-11-03 02:44:05,025 INFO ====== WebDriver manager ======
-2022-11-03 02:44:05,059 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:44:05,426 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:44:06,309 INFO ✅ Driver init.
-2022-11-03 02:45:03,485 INFO ====== WebDriver manager ======
-2022-11-03 02:45:03,515 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:45:03,952 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:45:04,860 INFO ✅ Driver init.
-2022-11-03 02:45:42,894 INFO ====== WebDriver manager ======
-2022-11-03 02:45:42,926 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:45:43,243 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:45:44,132 INFO ✅ Driver init.
-2022-11-03 02:46:29,765 INFO ====== WebDriver manager ======
-2022-11-03 02:46:29,796 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:46:30,201 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:46:31,091 INFO ✅ Driver init.
-2022-11-03 02:46:54,193 INFO ====== WebDriver manager ======
-2022-11-03 02:46:54,225 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:46:54,592 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:46:55,560 INFO ✅ Driver init.
-2022-11-03 02:51:07,791 INFO ====== WebDriver manager ======
-2022-11-03 02:51:07,824 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:51:08,244 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:51:09,178 INFO ✅ Driver init.
-2022-11-03 02:51:11,078 INFO ✅ URL Ready.
-2022-11-03 02:51:12,232 INFO ✅ Target city found.
-2022-11-03 02:51:12,268 INFO ✅ Target city found.
-2022-11-03 02:51:51,740 INFO ====== WebDriver manager ======
-2022-11-03 02:51:51,774 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:51:52,147 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:51:53,040 INFO ✅ Driver init.
-2022-11-03 02:51:54,789 INFO ✅ URL Ready.
-2022-11-03 02:51:55,933 INFO ✅ Target city found.
-2022-11-03 02:51:55,952 INFO ✅ Target city found.
-2022-11-03 02:54:38,166 INFO ====== WebDriver manager ======
-2022-11-03 02:54:38,200 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:54:38,594 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:54:39,475 INFO ✅ Driver init.
-2022-11-03 02:54:41,099 INFO ✅ URL Ready.
-2022-11-03 02:54:42,399 INFO ✅ Target city found.
-2022-11-03 02:54:42,452 ERROR ❌ Target city's list is empty.
-2022-11-03 02:55:02,317 INFO ====== WebDriver manager ======
-2022-11-03 02:55:02,349 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
-2022-11-03 02:55:02,710 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
-2022-11-03 02:55:03,563 INFO ✅ Driver init.
-2022-11-03 02:55:05,284 INFO ✅ URL Ready.
-2022-11-03 02:55:06,433 INFO ✅ Target city found.
-2022-11-03 02:55:06,492 INFO ✅ Target city found.
+2022-11-06 16:32:52,846 INFO ✅ my.energo-pro.ge available.
+2022-11-06 16:32:52,856 INFO ====== WebDriver manager ======
+2022-11-06 16:32:52,902 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 16:32:53,293 INFO About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_linux64.zip
+2022-11-06 16:32:56,005 INFO Driver has been saved in cache [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304]
+2022-11-06 16:32:56,882 INFO ✅ Driver init.
+2022-11-06 16:32:58,644 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 16:32:59,867 INFO ✅ Target city found.
+2022-11-06 16:32:59,923 INFO ✅ Target city has announcement.
+2022-11-06 16:32:59,953 INFO ✅ Element found.
+2022-11-06 16:35:32,844 INFO ✅ my.energo-pro.ge available.
+2022-11-06 16:35:32,866 INFO ====== WebDriver manager ======
+2022-11-06 16:35:32,967 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 16:35:33,638 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-06 16:35:34,503 INFO ✅ Driver init.
+2022-11-06 16:35:37,260 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 16:35:38,412 INFO ✅ Target city found.
+2022-11-06 16:35:38,465 INFO ✅ Target city has announcement.
+2022-11-06 16:35:38,504 INFO ✅ Element found.
+2022-11-06 16:35:40,224 ERROR ❌ Element not found.
+2022-11-06 16:41:05,980 INFO ✅ my.energo-pro.ge available.
+2022-11-06 16:41:05,993 INFO ====== WebDriver manager ======
+2022-11-06 16:41:06,081 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 16:41:06,544 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-06 16:41:07,543 INFO ✅ Driver init.
+2022-11-06 16:41:09,329 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 16:41:10,513 INFO ✅ Target city found.
+2022-11-06 16:41:10,586 INFO ✅ Target city has announcement.
+2022-11-06 16:41:10,619 INFO ✅ Element found.
+2022-11-06 16:41:12,361 ERROR ❌ Element not found.
+2022-11-06 16:46:30,163 INFO ✅ my.energo-pro.ge available.
+2022-11-06 16:46:30,186 INFO ====== WebDriver manager ======
+2022-11-06 16:46:30,246 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 16:46:30,707 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-06 16:46:31,720 INFO ✅ Driver init.
+2022-11-06 16:46:33,427 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 16:46:34,604 INFO ✅ Target city found.
+2022-11-06 16:46:34,672 INFO ✅ Target city has announcement.
+2022-11-06 16:46:34,709 INFO ✅ Element found.
+2022-11-06 16:46:36,455 ERROR ❌ Element not found.
+2022-11-06 16:53:33,869 INFO ✅ my.energo-pro.ge available.
+2022-11-06 16:53:33,893 INFO ====== WebDriver manager ======
+2022-11-06 16:53:33,950 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 16:53:34,427 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-06 16:53:35,359 INFO ✅ Driver init.
+2022-11-06 16:53:37,094 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 16:53:38,282 INFO ✅ Target city found.
+2022-11-06 16:53:38,333 INFO ✅ Target city has announcement.
+2022-11-06 16:53:38,373 INFO ✅ Element found.
+2022-11-06 16:56:50,400 INFO ✅ my.energo-pro.ge available.
+2022-11-06 16:56:50,411 INFO ====== WebDriver manager ======
+2022-11-06 16:56:50,472 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 16:56:50,837 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-06 16:56:51,826 INFO ✅ Driver init.
+2022-11-06 16:56:53,430 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 16:56:54,766 INFO ✅ Target city found.
+2022-11-06 16:56:54,838 INFO ✅ Target city has announcement.
+2022-11-06 16:56:54,879 INFO ✅ Element found.
+2022-11-06 16:56:57,139 ERROR ❌ Element not found.
+2022-11-06 17:22:06,855 INFO ✅ my.energo-pro.ge available.
+2022-11-06 17:22:06,856 INFO ====== WebDriver manager ======
+2022-11-06 17:22:06,933 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 17:22:07,407 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-06 17:22:08,308 INFO ✅ Driver init.
+2022-11-06 17:22:10,036 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 17:22:11,216 INFO ✅ Target city found.
+2022-11-06 17:22:11,272 INFO ✅ Target city has announcement.
+2022-11-06 17:22:11,300 INFO ✅ Element found.
+2022-11-06 17:22:13,351 ERROR ❌ Element not found.
+2022-11-06 17:23:15,984 INFO ✅ my.energo-pro.ge available.
+2022-11-06 17:23:15,986 INFO ====== WebDriver manager ======
+2022-11-06 17:23:16,089 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 17:23:16,478 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-06 17:23:17,352 INFO ✅ Driver init.
+2022-11-06 17:23:19,303 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 17:23:20,463 INFO ✅ Target city found.
+2022-11-06 17:23:20,517 INFO ✅ Target city has announcement.
+2022-11-06 17:23:20,544 INFO ✅ Element found.
+2022-11-06 17:23:22,792 ERROR ❌ Element not found.
+2022-11-06 19:22:51,627 INFO ✅ my.energo-pro.ge available.
+2022-11-06 19:22:51,628 INFO ====== WebDriver manager ======
+2022-11-06 19:22:51,715 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 19:22:52,172 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-06 19:22:53,049 INFO ✅ Driver init.
+2022-11-06 19:22:54,558 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 19:22:55,775 INFO ✅ Target city found.
+2022-11-06 19:22:55,807 INFO ✅ Target city has announcement.
+2022-11-06 19:22:55,857 INFO ✅ Element found.
+2022-11-06 19:22:58,161 ERROR ❌ Element not found.
+2022-11-06 19:29:42,895 INFO ✅ my.energo-pro.ge available.
+2022-11-06 19:29:42,895 INFO ====== WebDriver manager ======
+2022-11-06 19:29:42,944 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-06 19:29:43,421 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-06 19:29:44,316 INFO ✅ Driver init.
+2022-11-06 19:29:45,833 INFO ✅ my.energo-pro.ge ready.
+2022-11-06 19:29:47,066 INFO ✅ Target city found.
+2022-11-06 19:29:47,116 INFO ✅ Target city has announcement.
+2022-11-06 19:29:47,145 INFO ✅ Element found.
+2022-11-06 19:29:49,356 ERROR ❌ Element not found.
