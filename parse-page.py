@@ -91,12 +91,13 @@ def parse_page_selenium():
             e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[1]/div[1]/div[3]/div[1]').click()
             alert_text=(WebDriverWait(e_pro, 20).until(EC.visibility_of_element_located((By.XPATH, xpath+'div[2]/div/div[1]/div[2]/div/div'))).get_attribute("innerHTML"))
             print(prepare_alert_mesage(alert_text))
-
             time.sleep(1)
         try: 
             if e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[2]/div[1]/div[4]/div/div[1]').is_displayed():
                 logging.info(element_found)
                 e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[2]/div[1]/div[4]/div/div[1]').click()
+                alert_text=(WebDriverWait(e_pro, 20).until(EC.visibility_of_element_located((By.XPATH, xpath+'div[2]/div/div[2]/div[2]/div/div'))).get_attribute("innerHTML"))
+                print(prepare_alert_mesage(alert_text))
                 time.sleep(1)
             else:
                 logging.error(element_not_found)
@@ -104,6 +105,8 @@ def parse_page_selenium():
             if e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[3]/div[1]/div[4]/div/div[1]/div[1]').is_displayed():
                 logging.info(element_found)
                 e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[3]/div[1]/div[4]/div/div[1]/div[1]').click()
+                alert_text=(WebDriverWait(e_pro, 20).until(EC.visibility_of_element_located((By.XPATH, xpath+'div[2]/div/div[3]/div[2]/div/div'))).get_attribute("innerHTML"))
+                print(prepare_alert_mesage(alert_text))
                 time.sleep(1)
             else:
                 logging.error(element_not_found)
@@ -111,6 +114,9 @@ def parse_page_selenium():
             if e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[4]/div[1]/div[4]/div/div[1]').is_displayed():
                 logging.info(element_found)
                 e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[4]/div[1]/div[4]/div/div[1]').click()
+                alert_text=(WebDriverWait(e_pro, 20).until(EC.visibility_of_element_located((By.XPATH, xpath+'div[2]/div/div[4]/div[2]/div/div'))).get_attribute("innerHTML"))
+                print(prepare_alert_mesage(alert_text))
+                time.sleep(1)
             else:
                 logging.error(element_not_found)
 

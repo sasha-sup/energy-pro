@@ -97,3 +97,57 @@
 2022-11-06 19:29:47,116 INFO ✅ Target city has announcement.
 2022-11-06 19:29:47,145 INFO ✅ Element found.
 2022-11-06 19:29:49,356 ERROR ❌ Element not found.
+2022-11-08 00:00:07,677 INFO ✅ my.energo-pro.ge available.
+2022-11-08 00:00:07,678 INFO ====== WebDriver manager ======
+2022-11-08 00:00:07,755 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-08 00:00:08,184 INFO About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_linux64.zip
+2022-11-08 00:00:11,936 INFO Driver has been saved in cache [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304]
+2022-11-08 00:00:12,840 INFO ✅ Driver init.
+2022-11-08 00:00:49,318 INFO ✅ my.energo-pro.ge ready.
+2022-11-08 00:00:50,494 INFO ✅ Target city found.
+2022-11-08 00:00:50,529 INFO ✅ Target city has announcement.
+2022-11-08 00:00:50,595 INFO ✅ Element found.
+2022-11-08 00:00:53,824 INFO ✅ my.energo-pro.ge available.
+2022-11-08 00:00:53,824 INFO ====== WebDriver manager ======
+2022-11-08 00:00:53,920 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-08 00:00:54,295 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-08 00:00:55,196 INFO ✅ Driver init.
+2022-11-08 00:00:57,712 INFO ✅ my.energo-pro.ge ready.
+2022-11-08 00:00:58,954 INFO ✅ Target city found.
+2022-11-08 00:00:58,991 INFO ✅ Target city has announcement.
+2022-11-08 00:00:59,053 INFO ✅ Element found.
+2022-11-08 00:01:01,281 INFO ✅ Element found.
+2022-11-08 00:01:02,334 INFO ✅ Element found.
+2022-11-08 00:01:03,423 INFO ✅ Element found.
+2022-11-08 00:01:03,483 ERROR ❌ Element not found.
+2022-11-08 00:06:07,510 INFO ✅ my.energo-pro.ge available.
+2022-11-08 00:06:07,512 INFO ====== WebDriver manager ======
+2022-11-08 00:06:07,608 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-08 00:06:08,038 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-08 00:06:09,033 INFO ✅ Driver init.
+2022-11-08 00:06:30,479 INFO ✅ my.energo-pro.ge available.
+2022-11-08 00:06:30,480 INFO ====== WebDriver manager ======
+2022-11-08 00:06:30,525 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-08 00:06:30,836 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-08 00:06:31,766 INFO ✅ Driver init.
+2022-11-08 00:06:36,830 INFO ✅ my.energo-pro.ge ready.
+2022-11-08 00:06:38,033 INFO ✅ Target city found.
+2022-11-08 00:06:38,095 INFO ✅ Target city has announcement.
+2022-11-08 00:06:38,136 INFO ✅ Element found.
+2022-11-08 00:06:40,357 INFO ✅ Element found.
+2022-11-08 00:06:42,533 INFO ✅ Element found.
+2022-11-08 00:06:44,763 INFO ✅ Element found.
+2022-11-08 00:06:46,437 ERROR ❌ Element not found.
+2022-11-08 00:09:00,026 INFO ✅ my.energo-pro.ge available.
+2022-11-08 00:09:00,027 INFO ====== WebDriver manager ======
+2022-11-08 00:09:00,115 INFO Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-08 00:09:00,575 INFO Driver [/home/sasha/.wdm/drivers/chromedriver/linux64/107.0.5304/chromedriver] found in cache
+2022-11-08 00:09:01,495 INFO ✅ Driver init.
+2022-11-08 00:09:03,281 INFO ✅ my.energo-pro.ge ready.
+2022-11-08 00:09:04,471 INFO ✅ Target city found.
+2022-11-08 00:09:04,500 INFO ✅ Target city has announcement.
+2022-11-08 00:09:04,562 INFO ✅ Element found.
+2022-11-08 00:09:06,807 INFO ✅ Element found.
+2022-11-08 00:09:09,044 INFO ✅ Element found.
+2022-11-08 00:09:11,242 INFO ✅ Element found.
+2022-11-08 00:09:13,528 ERROR ❌ Element not found.
