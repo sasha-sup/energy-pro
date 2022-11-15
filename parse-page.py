@@ -35,9 +35,25 @@ def check_page():
     else:
         pass
         logging.info('✅ my.energo-pro.ge available.')
-        
 
-# Setup WebDriver Chrome
+
+# Selenoid preparation
+# capabilities = {
+#     "browserName": "chrome",
+#     "browserVersion": "103.0",
+#     "selenoid:options": {
+#         "enableVNC": True,
+#         "enableVideo": False
+#     }
+# }
+
+# def setup_driver():
+#     web = webdriver.Remote(
+#         command_executor="http://localhost:4444/wd/hub",
+#         desired_capabilities=capabilities)
+
+
+# Local build 
 def set_up_driver():
     web = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     logging.info('✅ Driver init.')
@@ -57,7 +73,6 @@ def prepare_alert_mesage(alert_text):
     jsonStr = json.dumps([x for x in split_transleted_alert_text if x])
     json_object = json.loads(jsonStr)
     json_formatted_str = json.dumps(json_object, indent=2)
-
     return json_formatted_str
 
 
@@ -90,48 +105,51 @@ def parse_page_selenium():
             logging.info(element_found)
             e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[1]/div[1]/div[3]/div[1]').click()
             alert_text=(WebDriverWait(e_pro, 20).until(EC.visibility_of_element_located((By.XPATH, xpath+'div[2]/div/div[1]/div[2]/div/div'))).get_attribute("innerHTML"))
-            print(prepare_alert_mesage(alert_text))
+            alert1=(prepare_alert_mesage(alert_text))
             time.sleep(1)
         try: 
             if e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[2]/div[1]/div[4]/div/div[1]').is_displayed():
                 logging.info(element_found)
                 e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[2]/div[1]/div[4]/div/div[1]').click()
                 alert_text=(WebDriverWait(e_pro, 20).until(EC.visibility_of_element_located((By.XPATH, xpath+'div[2]/div/div[2]/div[2]/div/div'))).get_attribute("innerHTML"))
-                print(prepare_alert_mesage(alert_text))
+                alert2=(prepare_alert_mesage(alert_text))
                 time.sleep(1)
             else:
-                logging.error(element_not_found)
+                logging.info(element_not_found)
 
             if e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[3]/div[1]/div[4]/div/div[1]/div[1]').is_displayed():
                 logging.info(element_found)
                 e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[3]/div[1]/div[4]/div/div[1]/div[1]').click()
                 alert_text=(WebDriverWait(e_pro, 20).until(EC.visibility_of_element_located((By.XPATH, xpath+'div[2]/div/div[3]/div[2]/div/div'))).get_attribute("innerHTML"))
-                print(prepare_alert_mesage(alert_text))
+                alert3=(prepare_alert_mesage(alert_text))
                 time.sleep(1)
             else:
-                logging.error(element_not_found)
+                logging.info(element_not_found)
 
             if e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[4]/div[1]/div[4]/div/div[1]').is_displayed():
                 logging.info(element_found)
                 e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[4]/div[1]/div[4]/div/div[1]').click()
                 alert_text=(WebDriverWait(e_pro, 20).until(EC.visibility_of_element_located((By.XPATH, xpath+'div[2]/div/div[4]/div[2]/div/div'))).get_attribute("innerHTML"))
-                print(prepare_alert_mesage(alert_text))
+                alert4=(prepare_alert_mesage(alert_text))
                 time.sleep(1)
             else:
-                logging.error(element_not_found)
+                logging.info(element_not_found)
 
             if e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[5]/div[1]/div[4]/div/div[1]/div[1]').is_displayed():
                 logging.info(element_found )
                 e_pro.find_element(By.XPATH, xpath+'div[2]/div/div[5]/div[1]/div[4]/div/div[1]/div[1]').click()
+                alert_text=(WebDriverWait(e_pro, 20).until(EC.visibility_of_element_located((By.XPATH, xpath+'div[2]/div/div[4]/div[2]/div/div'))).get_attribute("innerHTML"))
             else:
-                logging.error(element_not_found)
+                logging.info(element_not_found)
         except:
-            logging.error(element_not_found)
+            logging.info('❌ No more elements was found.')
             pass
 
-
-
-        time.sleep(666)
+# TO DO:
+# - Return json response from e-pro.ge 
+# - Think about how to send json 
+        e_pro.close()
+        
 
 
 if __name__ == '__main__':
